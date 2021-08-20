@@ -77,7 +77,7 @@ const App = () => {
                       id={info.id}
                       weight={info.weight}
                       height={info.height}
-                      date={info.date}
+                      date={info.date
                       bmi={info.bmi}
                       status={info.status}
                       deleteCard={handleDelete}
